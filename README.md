@@ -4,6 +4,7 @@ This article describe you How to use Managed Identity to call Graph API
 
 # Enable Managed Identity for Logic App 
 
+![N|Solid](LA_MI.png)
 
 # Grant access to Microsoft Graph
 
