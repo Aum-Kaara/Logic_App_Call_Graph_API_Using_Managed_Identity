@@ -26,3 +26,6 @@ body="{'principalId':'$spId','resourceId':'$graphResourceId','appRoleId':'$appRo
 az rest --method post --uri $uri --body $body --headers "Content-Type=application/json"
 
 ```
+# Use Managed Identity while calling HTTP action in Azure Logic App
+
+![N|Solid](LA_HTTP.png)
